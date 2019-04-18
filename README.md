@@ -11,6 +11,7 @@ This is repository for Digital Life Transformation (Hackearth). it has a few sol
 4. **Sarah Chat Bot (LUIS/Bot Framework)** [https://github.com/Umaramir/HomeAutomation.git](https://github.com/Umaramir/HomeAutomation.git)
 5. **Car Dashboard** [https://github.com/Gravicode/BMC.CarDashboard](https://github.com/Gravicode/BMC.CarDashboard)
 6. **AquaScape Node and Gateway** [https://github.com/Gravicode/BMC.Aquascape](https://github.com/Gravicode/BMC.Aquascape)
+7. **Mobile Home Controller** [https://github.com/galihyprtm/HomeAutomationMobileApp.git](https://github.com/galihyprtm/HomeAutomationMobileApp.git)
 
 ## IDE and Tools
 
@@ -24,7 +25,8 @@ In order to run this solution, you must prepare a couple things, this is require
 3. **Hydroponic Node and Gateway** : Gadgeteer Device (FezRaptor) with sensors (TDS, PH Sensor Pro, Temp, Ultrasonic Distance), XBEE
 4. **Sarah Chat Bot (LUIS/Bot Framework)** : Bot Services, LUIS Account
 5. **Car Dashboard** : WinIoTCore / Win 10 with Internet Connection
-6. **AquaScape Node and Gateway** : custom device, 
+6. **AquaScape Node and Gateway** : custom device, raspi3 with raspbian
+7. **Mobile Home Controller** : android device, xamarin
 
 ## Video Demo
 
