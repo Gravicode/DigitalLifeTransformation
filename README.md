@@ -1,3 +1,4 @@
+
 # Digital Life Transformation
 
 This is repository for Digital Life Transformation (Hackearth). it has a few solutions that integrated as one solution.
@@ -50,7 +51,7 @@ Below are the predefined words to interact with Sarah:
 3. **Hydroponic Node and Gateway** is sensor node for gathering data sensor in hydroponic and controlling relay for water pump. 
 4. **Sarah Chat Bot (LUIS/Bot Framework)** is different form of Sarah (Home Assistant), it is build on top of Bot Framework and LUIS. 
 5. **Car Dashboard** is replacement for your old audio car dashboard. It is build on top of Win IoT Core. Can play stream media from youtube, recite quran, image slide show, controlling electronic device in your home, etc.
-6.   **AquaScape Node and Gateway** can enable you to change your aquarium water remotely
+6. **AquaScape Node and Gateway** can enable you to change your aquarium water remotely
 7.  **Mobile Home Controller** is mobile-based electronic device controller, it will be improved to unlock the door using face and pin. 
 ## Prerequisites
 
@@ -65,14 +66,16 @@ In order to run this solution, you must prepare a couple things, this is require
 
 ## Video Demo
 
-Watch the demo here : [https://www.youtube.com/watch?v=iR-OfKB_ooU](https://www.youtube.com/watch?v=iR-OfKB_ooU)
-Presentation : [https://www.slideshare.net/mifmasterz/digital-life-transformation-hackearth](https://www.slideshare.net/mifmasterz/digital-life-transformation-hackearth)
+Watch the de
+
+ 1. Watch the demo here : [https://www.youtube.com/watch?v=iR-OfKB_ooU](https://www.youtube.com/watch?v=iR-OfKB_ooU)
+ 2. Presentation : [https://www.slideshare.net/mifmasterz/digital-life-transformation-hackearth](https://www.slideshare.net/mifmasterz/digital-life-transformation-hackearth)
 
 ## Online Demo
 
 Some solution has an online demo:
-1. [Home Controller](http://bmcsecurityweb.azurewebsites.net/)
-2. Add to your telegram : http://t.me/HaiSarahBot
+1.  [Home Controller](http://bmcsecurityweb.azurewebsites.net/)
+2.  Add to your telegram : http://t.me/HaiSarahBot
 
 ## Last Word
 This project will be dedicated for open source enthusiast all over the world, sometimes developer can learn faster by trying real-project from other people, github enable us to collaborate more with other devs.
