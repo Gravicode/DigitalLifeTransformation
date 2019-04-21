@@ -65,7 +65,8 @@ In order to run this solution, you must prepare a couple things, this is require
 
 ## Video Demo
 
-Watch the demo here : 
+Watch the demo here : [https://www.youtube.com/watch?v=iR-OfKB_ooU](https://www.youtube.com/watch?v=iR-OfKB_ooU)
+Presentation : [https://www.slideshare.net/mifmasterz/digital-life-transformation-hackearth](https://www.slideshare.net/mifmasterz/digital-life-transformation-hackearth)
 
 ## Online Demo
 
